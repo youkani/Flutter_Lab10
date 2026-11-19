@@ -1,13 +1,13 @@
 flutter_launcher_icons:
- android: true
- ios: false
- image_path: assets/icon/app_icon.png
- min_sdk_android: 24
- web:
- generate: true
- image_path: assets/icon/app_icon.png
- background_color: "#4527A0"
- theme_color: "#4527A0"
+  android: true
+  ios: false
+  image_path: assets/icon/app_icon.png
+  min_sdk_android: 24
+  web:
+    generate: true
+    image_path: assets/icon/app_icon.png
+    background_color: "#4527A0"
+    theme_color: 
 name: slot_machine_bunicheva_shkurskii
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
